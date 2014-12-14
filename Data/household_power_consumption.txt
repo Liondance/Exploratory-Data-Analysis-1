@@ -1,0 +1,6 @@
+==== DUMMY FILE ====
+
+Replace with raw "household_power_consumption.txt" file from UC Irvine Machine Learning Repository
+
+A zipped version of the "raw" file can be downloaded here:
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
