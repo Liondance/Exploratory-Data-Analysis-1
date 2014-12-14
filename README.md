@@ -4,10 +4,10 @@ For the sake of reproducibility, the directory "Data" should contain the origina
 "raw" data set as downloaded from the UC Irvine Machine Learning Repository.
 It is _not_ required for graders to run the code, but, if you wish to do so, these are the instructions:
 
-1) clone this github repository to your computer
-2) Download the "raw" data set from the UC Irvine Machine Learning Repository
-3) Unzip the downloaded file in the Data directory (replace the dummy file in there)
-4) Set the current R directory to the directory that contains the cloned plot*.R files
+* 1) clone this github repository to your computer
+* 2) Download the "raw" data set from the UC Irvine Machine Learning Repository
+* 3) Unzip the downloaded file in the Data directory (replace the dummy file in there)
+* 4) Set the current R directory to the directory that contains the cloned plot*.R files
 
 Note how the code to load the data assumes that the file located inside the "Data" directory.
 
